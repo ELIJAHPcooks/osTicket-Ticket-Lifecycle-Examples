@@ -44,9 +44,67 @@ now it will bring you to a page to file out information about, contact info, hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/yTaPGcW.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1lTj3cK.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+now sign in using the account of an agent that you created(see previous osTickt tutorials) 
 </p>
 <br />
+
+
+<p>
+<img src="https://i.imgur.com/5CCuzTg.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+once you log into the the agent account, will be taken to the osTicket dashboard. Locate the tickets tab on the the right side of the screen and you will see all the open tickets under your name(Agent) 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/w73FMep.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open the ticket and you will be directed to a page that shows you all the information about the ticket created.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/g1mArcc.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/dIxyBPz.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now change the SLA plan to fit according to your scenario, along with changing the priority level for the scenario. Based on my scenario(CFO laptop is leaking info) so I changed the priority level to emergency and the SLA to Sev-A
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/JfJ5hPs.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/gnez3Io.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Finally I go to transfer departments over to system adminstratiors in this scenario because the deal with company internal affaris. I then update my response to the ticket to "coordinate with sys admin team to work on fix for CFO Laptop" then click post reply at the bottom of the page. 
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/X6dj9KK.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+
+</p>
+<p>
+Now you will be sent back to the ticket dadshboard. There you can see the updated Ticket. 
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/qVGzIkG.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+
+</p>
+<p>
+In my ticket scenario a fix has been found by someone in incident response. So the CFO's laptop should now stop leaking information. on The Agents end you need to update the response then update the ticket status and the bottom of the page, then click post reply. This is an example of going through a tickets lifecycle. 
+</p>
+<br />
+
+
